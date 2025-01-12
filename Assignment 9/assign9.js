@@ -308,7 +308,7 @@ var number = Number(prompt("Eter a number :"));
  for ( var i = number ; i > 0 ; i -- ){
        fac = fac * i;
  }
- console.log(factorial of number is: ${fac});
+ console.log(`factorial of number is: ${fac}`);
  
 
 // Q24. Write a js program to find HCF (GCD) of two numbers.
